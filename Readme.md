@@ -1,0 +1,1 @@
+Estudo de clone página de resultados do google.
