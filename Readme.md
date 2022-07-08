@@ -1,1 +1,1 @@
-Estudo de Html e Css, clone página de resultados do google.
+Página de resultados da Google feita em aula para fins de estudo de Html e Css.
